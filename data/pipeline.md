@@ -1,0 +1,138 @@
+# Pipeline — Pending Offers
+
+## Pendientes
+
+- [ ] https://jobs.ashbyhq.com/rula/40915141-68c6-4a00-9581-95b158da6d91 | Rula | Sr. Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/hopper/2bc0143c-3080-45cc-8351-b7983f713bf3 | Hopper | Senior Product Manager, Commerce - AI & Platform (Remote - USA East)
+- [ ] https://jobs.ashbyhq.com/hopper/935e0c08-4c14-44ca-82a6-9345f2145979 | Hopper | Senior Product Manager, Commerce - AI & Platform (Remote - UK)
+- [ ] https://jobs.ashbyhq.com/hopper/4b2553ae-85d8-41e3-a43b-4fd0ecfc82d3 | Hopper | Senior Product Manager, Commerce - AI & Platform (Remote - Spain)
+- [ ] https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf | EverAI | Senior AI Product Manager (Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/higharc/da3e4a14-a3cb-4060-8a61-6ee23294d222 | Higharc | Senior Product Manager, AI Experiences
+- [ ] https://jobs.ashbyhq.com/weave/3e2e05c4-e1bc-4345-b422-b4a9dd2314e9 | Weave | Senior Product Manager, AI/ML
+- [ ] https://jobs.ashbyhq.com/hopper/9a3d0809-326b-4ca5-ae60-bae9a835234c | Hopper | Principal Product Manager - AI Travel (Remote - USA)
+- [ ] https://jobs.ashbyhq.com/lavendo/e5cf20c8-5beb-4ef8-82d7-d7c053454010 | Lavendo | Solutions Architect, AI Agents (US Remote)
+- [ ] https://jobs.ashbyhq.com/lavendo/590152fb-8300-4ee6-a299-f2bf5515e41d | Lavendo | Solutions Architect, AI Infrastructure (US Remote)
+- [ ] https://jobs.ashbyhq.com/lavendo/f0374fa5-f8b8-4f42-b6fb-898721ef6a10 | Lavendo | Solutions Architect - AI Agents Deployment
+- [ ] https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a | OpenAI | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/decagon/83267854-2ea8-4322-8ba3-88c2dcb086a5 | Decagon | Solutions Architect - Salesforce
+- [ ] https://jobs.ashbyhq.com/cohere/67c4c05a-f7ab-48dc-a779-af835e2d36f1 | Cohere | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/sandboxaq/336b6f46-6e98-4622-bdc5-8a03564ed1da | SandboxAQ | Staff Solutions Architect, AI Sim
+- [ ] https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3 | OpenRouter | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Applied AI Inference - Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/reflectionai/1d029ec2-a842-4dff-b784-1328422c03e8 | Reflection | Forward Deployed Engineer, Lead - LLM Post-training
+- [ ] https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d | Firecrawl | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/kepler-ai/00a20d87-4fe6-4c05-bfe6-9add47e84c6e | Kepler | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/handshake/669082a2-5e60-4c45-92cc-ecd6228e62ee | Handshake | Staff Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc | Periodic Labs | Forward Deployed Engineer - LLM Systems
+- [ ] https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI (Remote)
+- [ ] https://jobs.ashbyhq.com/oneapp/a85bb5aa-9683-4d67-84e5-5d3e4bacda59 | OnePay | Platform Engineer (AI and Automation)
+- [ ] https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer
+- [ ] https://jobs.ashbyhq.com/handshake/747bd14b-b957-4fca-b5bd-12d571f6886e | Handshake | Senior Software Engineer, Agentic Infrastructure
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7833978 | Smartsheet | Senior Product Manager - Applied AI (Remote)
+- [ ] https://job-boards.greenhouse.io/sayari/jobs/4140623009 | Sayari | Senior Product Manager, AI Platform (Remote)
+- [ ] https://boards.greenhouse.io/toast/jobs/7673399 | Toast | Senior Product Manager, AI CSM (Remote)
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/7782217 | SecurityScorecard | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/isccareers/jobs/4685310005 | ISC | Senior AI Product Manager (Remote)
+- [ ] https://job-boards.greenhouse.io/hopskipdrive/jobs/5596670004 | HopSkipDrive | Senior Product Manager, AI (Remote)
+- [ ] https://job-boards.greenhouse.io/abbyy/jobs/4870924101 | ABBYY | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4880987101 | JetBrains | Lead Forward Deployed Engineer (AI-Native Software Development)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7930145 | Smartsheet | Sr. Forward Deployed AI Engineer (Remote Eligible - UK)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7798778 | Smartsheet | Senior Forward Deployed AI Engineer (Remote Eligible)
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5528192004 | DevRev | Forward Deployed Architect
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4059100009 | Fireworks AI | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8320989002 | Workato | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8468149002 | GitLab | Solutions Architect, AI + Security & Compliance (EMEA)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7644791003 | Nearform | Forward Deployed Engineer (Ireland, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004 | Grafana Labs | Senior AI Engineer (US Remote)
+- [ ] https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005 | ShipBob | Applied AI Engineer, Agentic Systems
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/6002762004 | Dataiku | Generative AI Engineer
+- [ ] https://job-boards.greenhouse.io/nebius/jobs/4381327101 | Nebius | Senior / Staff ML Engineer (LLMs and Agentic Systems)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7619114003 | Nearform | Forward Deployed Engineer (USA, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7619129003 | Nearform | Forward Deployed Engineer (UK, Remote + Travel)
+- [ ] https://jobs.lever.co/levelai/0fae94f5-a0e9-43e1-b57a-7df2422d68cf | Level AI | Solutions Architect (Remote)
+- [ ] https://jobs.lever.co/useinsider/fdfa3283-fee9-4a1e-aa01-769c42ae1ac3 | Insider | AI Product Manager - B2B SaaS (Martech) (Remote)
+- [ ] https://jobs.lever.co/mistral/b5b565a0-533a-43c3-b232-114138422cb0 | Mistral AI | AI Solution Architect, Pre-sales (Palo Alto)
+- [ ] https://jobs.lever.co/zartis/5ef59203-dbe0-45e5-80ec-0fd95daa0fd2 | Zartis | GenAI Architect
+- [ ] https://jobs.lever.co/bluelightconsulting/89c314c1-4e6e-4b41-87ba-61a9ea3bc5d6 | Bluelight Consulting | Agentic AI Solutions Architect (Remote - Latin America)
+- [ ] https://jobs.lever.co/provectus/c352f349-8e21-42f3-a0f2-00a925a93a70 | Provectus | Generative AI Tech Lead (LLMs, MLOps, AWS)
+- [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer - AI Solutions
+- [ ] https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner/Forward Deployed Engineer
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack - EMEA
+- [ ] https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f | Mistral AI | Applied AI - Technical Lead, Forward Deployed AI Engineer (EMEA)
+- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI - Forward Deployed ML Engineer (EMEA)
+- [ ] https://jobs.lever.co/mistral/9a6c0605-8beb-4122-99c8-ae96beea691b | Mistral AI | Solutions Architect, Partner - EMEA
+- [ ] https://wellfound.com/jobs/3935668-ai-product-manager | Arize AI | AI Product Manager (Remote)
+- [ ] https://wellfound.com/jobs/3990242-product-manager-ai | YipitData | Product Manager, AI (Remote)
+- [ ] https://apply.workable.com/leadtech/j/A83B949324 | Leadtech | AI Product Manager (Remote)
+- [ ] https://apply.workable.com/arcsite/j/820E8B4B9E | ArcSite | Senior Product Manager (AI & Workflow Automation)
+- [ ] https://apply.workable.com/enroute/j/4040CDFA91 | Enroute | AI Solutions Architect - Python, APIs & LLM Integrations
+- [ ] https://apply.workable.com/zyte/j/35E0AE7392 | Zyte | Technical Product Manager / Owner - AI (Remote)
+- [ ] https://job-boards.greenhouse.io/trmlabs/jobs/5631209004 | TRM Labs | Senior Business Process Automation Engineer
+- [ ] https://job-boards.greenhouse.io/later/jobs/8562535002 | Later | Senior AI Automation Engineer
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8516229002 | Workato | Staff Automation Engineer
+- [ ] https://job-boards.greenhouse.io/saasgroup/jobs/4774181101 | saas.group | Senior IT Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8536588002 | Airtable | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/clera/351ba91b-8da5-48de-9f0f-6fd6dbd392bd | Clera | Forward Deployed Engineer (Founding Customer Engineer)
+- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5172245008 | Anthropic | Senior/Staff+ Software Engineer, Voice Platform
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://jobs.ashbyhq.com/bland/5e0347dd-eb4b-4820-9878-99a2cb766893 | Bland AI | AI Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/bland/1b6ba073-5a7a-45ad-afb8-f12dbc6eab7a | Bland AI | AI Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/bland/ea36f098-6e2a-4736-80ed-f67741829cf0 | Bland AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/bland/3579f06d-f74a-45e2-94e2-4048aad95a7c | Bland AI | Customer Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/decagon/c6201aeb-a752-4187-ac7f-654fc86bcdf8 | Decagon | Director of Solutions Engineering, Strategic
+- [ ] https://jobs.ashbyhq.com/decagon/73ef8e9d-a6b3-4817-ab02-893c4ac72bad | Decagon | Senior Solutions Engineer
+- [ ] https://openai.com/careers/forward-deployed-engineer-(fde)-sf-san-francisco/ | OpenAI | Forward Deployed Engineer (FDE) - SF
+- [ ] https://openai.com/careers/forward-deployed-engineer-(fde)-nyc-new-york-city/ | OpenAI | Forward Deployed Engineer (FDE) - NYC
+- [ ] https://openai.com/careers/forward-deployed-engineer-paris-paris-france/ | OpenAI | Forward Deployed Engineer - Paris
+- [ ] https://openai.com/careers/forward-deployed-software-engineer-sf-san-francisco/ | OpenAI | Forward Deployed Software Engineer - SF
+- [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer (East Coast - Remote)
+- [ ] https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725 | n8n | Senior Solutions Engineer (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969 | n8n | Senior AI Engineer (Europe Remote)
+- [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer (Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381 | n8n | Senior Solutions Engineer (West Coast - Remote)
+- [ ] https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert
+- [ ] https://jobs.ashbyhq.com/zapier/9cf9a8b4-71f0-42e0-ace4-63ddc2ab6b6e | Zapier | Sr. Product Manager, Workflow Runner
+- [ ] https://jobs.ashbyhq.com/cohere/2a179d34-c391-48bd-b2a3-b04f468a3840 | Cohere | Product Manager, Search and Embeddings
+- [ ] https://jobs.ashbyhq.com/cohere/3afa6212-444d-4028-9f71-9a44aaa24a1d | Cohere | Senior Product Manager, Code
+- [ ] https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295 | Cohere | Product Manager, Agent Harness & Modelling
+- [ ] https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d | LangChain | Product Manager, LangSmith
+- [ ] https://jobs.ashbyhq.com/pinecone/24f9a4e3-472d-4e63-908c-2653c0d8b612 | Pinecone | Principal Product Manager, Knowledge
+- [ ] https://jobs.ashbyhq.com/harvey/24f97125-c406-4ae3-9f94-07dd1310e511 | Harvey | Founding Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393 | Notion | Forward Deployed Engineer, GTM
+- [ ] https://jobs.ashbyhq.com/sandboxaq/24f6e875-5e3f-4601-8a6e-74ee542c3cb5 | SandboxAQ | Staff Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/fireworks.ai/da851441-e231-4205-9717-3aa860bed6fe | Fireworks AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/clarasight/573af661-9302-4381-8ddd-9db58674ebe3 | Clarasight | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/tenexlabs/2a359a2a-d5ed-48e8-96b8-b93826110ee9 | Tenex | Forward Deployed Engineer
+- [ ] https://www.remotefront.com/remote-jobs/make-senior-typescript-ai-engineer-r9gpf | Make | Senior TypeScript AI Engineer (Remote)
+- [ ] https://www.remotefront.com/remote-jobs/zoom-ai-engineer-agentic-verticals-slzmb | Zoom | AI Engineer - Agentic Verticals (Remote)
+- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product
+- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI - Forward Deployed ML Engineer (Palo Alto)
+- [ ] https://jobs.lever.co/mistral/ca22a1ac-c87e-4463-914a-6753ca79318c | Mistral AI | Product Manager, Cloud Partnerships
+- [ ] https://jobs.lever.co/mistral/c08c3a0f-9899-4e6c-8195-8b1cc24c56ff | Mistral AI | Product Manager, Context & Search
+- [ ] https://jobs.ashbyhq.com/negotiate-ai/ef78d44d-f3b5-412a-964d-1ca13ff11ee7 | NegotiateAI | Founding Agentic AI Product Engineer
+- [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer
+- [ ] https://jobs.ashbyhq.com/bland-ai/575de8d7-78b2-46f1-b5f2-e9d8d54d28cd | Bland AI | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/webai/9cb245f4-2c27-4262-9067-ae3aae26a404 | webAI | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/outliant/93cc9a86-d93f-464a-a3bb-a57c7ab38aba | Outliant | Solutions Architect II
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/7550936 | LendingTree | Sr. AI Platform Engineer
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer / Agentic Architect
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/5691976004 | GuidePoint Security | Generative AI Solution Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004 | Grafana Labs | Senior AI Engineer (Canada Remote)
+- [ ] https://jobs.lever.co/provectus/5499978e-1687-4cc6-a8c4-cc86d13bc9b0 | Provectus | Senior Technical Solution Owner/Product Manager (AI & Data Platforms)
+- [ ] https://jobs.lever.co/noodle/05242068-702e-4166-9810-fb8c8801ef2c | Noodle | AI Product Manager
+- [ ] https://jobs.lever.co/zartis/edbc1f05-04c5-461b-a0d1-d569e8d1dfc4 | Zartis | AI Engineer
+- [ ] https://jobs.lever.co/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b | AHEAD | AI Principal Technical Consultant, AI Services
+- [ ] https://jobs.lever.co/miteksystems-2/82e2dc07-abd5-4785-a275-2b8f398461bb | Mitek Systems | Sr. AI Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6d3333c9-fdec-401c-bacf-b9d2436d688f | ElevenLabs | AI Safety Engineer
+- [ ] https://openai.com/careers/forward-deployed-engineer-gov-washington-dc/ | OpenAI | Forward Deployed Engineer, Gov
+- [ ] https://openai.com/careers/forward-deployed-software-engineer-seattle-seattle/ | OpenAI | Forward Deployed Software Engineer - Seattle
+- [ ] https://openai.com/careers/forward-deployed-software-engineer-nyc-new-york-city/ | OpenAI | Forward Deployed Software Engineer - NYC
+- [ ] https://www.remotefront.com/remote-jobs/evolutioniq-software-engineer-ai-llm-hz12u | EvolutionIQ | Senior AI/Machine Learning Engineer - LLMs
+- [ ] https://www.remotefront.com/remote-jobs/evolutioniq-senior-software-engineer-ai-llm-a2eml | EvolutionIQ | Senior Software Engineer - AI / LLM
