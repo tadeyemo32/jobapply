@@ -136,3 +136,17 @@
 - [ ] https://openai.com/careers/forward-deployed-software-engineer-nyc-new-york-city/ | OpenAI | Forward Deployed Software Engineer - NYC
 - [ ] https://www.remotefront.com/remote-jobs/evolutioniq-software-engineer-ai-llm-hz12u | EvolutionIQ | Senior AI/Machine Learning Engineer - LLMs
 - [ ] https://www.remotefront.com/remote-jobs/evolutioniq-senior-software-engineer-ai-llm-a2eml | EvolutionIQ | Senior Software Engineer - AI / LLM
+- [ ] https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d | hive.co | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/9fin/ffe01dfd-0d71-43ee-bf04-ae2876f62c22 | 9fin | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/ac2b835e-375c-48d8-a174-8c2935f408b2 | Sarvam | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/poetic/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Poetic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003 | Celonis | Senior Integration & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8556658002 | GitLab | Senior AI Engineer (new posting)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5199747008 | Cresta | Senior Machine Learning Engineer, Voice Experience
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4707265005 | AssemblyAI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5093344007 | Together AI | Senior Platform Engineer, Voice AI
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4759347008 | Cresta | Senior Forward Deployed Engineer (AI Agent)
+- [ ] https://jobs.ashbyhq.com/Deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/75aa8ac6-e686-40d0-b3a6-eb132a461de0 | Jobgether | Solutions Architect (Remote)
