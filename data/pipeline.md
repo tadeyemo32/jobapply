@@ -212,3 +212,31 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
 - [ ] https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489 | Mistral AI | AI Scientist
 - [ ] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | RunPod | Forward Deployed Engineer APAC
+- [ ] https://jobs.lever.co/wandb/a8f8ab08-c96e-4efd-9672-94eb0a03b9ac | Weights & Biases | Senior AI Solutions Engineer, Federal
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/af01f0ca-d19c-48d0-b28f-563f5cbc7d83 | Palantir | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949 | ElevenLabs | Enterprise Solutions Engineer - Europe
+- [ ] https://jobs.ashbyhq.com/sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb | Cohere | Head of Solutions Architecture
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations
+- [ ] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America)
+- [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4759347008 | Cresta | Senior Forward Deployed Engineer (AI Agent)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | Cresta | Forward Deployed Engineer (AI Agent) - EMEA
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4738837008 | Cresta | Forward Deployed Product Manager, AI Agent
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5068157008 | Cresta | Forward Deployed Product Manager - AI Agent (EMEA)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5199747008 | Cresta | Senior Machine Learning Engineer, Voice Experience
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4707265005 | AssemblyAI | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/Deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5093344007 | Together AI | Senior Platform Engineer, Voice AI
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8196269002 | Motive | GTM AI Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8597941002 | Airtable | Senior Solutions Architect - West Coast
+- [ ] https://job-boards.greenhouse.io/jobsatphamily/jobs/4750261008 | Phamily | Senior Product Manager (AI Health-Tech SaaS, Remote)
+- [ ] https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed
+- [ ] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI)
+- [ ] https://jobs.ashbyhq.com/junipersquare/dca589c1-d467-4a92-ab9b-76028aeacf45 | Juniper Square | Senior Forward Deployed Engineer (AI)
+- [ ] https://apply.workable.com/gridium/j/268299DDE1 | Gridium | Product Manager - Data and Integrations
+- [ ] https://apply.workable.com/3degrees/j/2450A6FDCB | 3Degrees | Senior Product Manager, Platform & Commercial Enablement
+- [ ] https://jobs.ashbyhq.com/cohere/9d571f44-369b-41be-854e-89c7e119c4d7 | Cohere | Software Engineer - Applied ML (US/CAN)
