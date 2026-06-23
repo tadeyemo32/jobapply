@@ -136,3 +136,56 @@
 - [ ] https://openai.com/careers/forward-deployed-software-engineer-nyc-new-york-city/ | OpenAI | Forward Deployed Software Engineer - NYC
 - [ ] https://www.remotefront.com/remote-jobs/evolutioniq-software-engineer-ai-llm-hz12u | EvolutionIQ | Senior AI/Machine Learning Engineer - LLMs
 - [ ] https://www.remotefront.com/remote-jobs/evolutioniq-senior-software-engineer-ai-llm-a2eml | EvolutionIQ | Senior Software Engineer - AI / LLM
+- [ ] https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d | hive.co | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/9fin/ffe01dfd-0d71-43ee-bf04-ae2876f62c22 | 9fin | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/poetic/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Poetic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1 | OpenAI | Forward Deployed Engineer (FDE) - NYC
+- [ ] https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023 | OpenAI | Forward Deployed Engineer (FDE), Life Sciences - London
+- [ ] https://jobs.ashbyhq.com/openai/c6e5f4a6-8ab1-4653-be9d-e2bca259e84a | OpenAI | Forward Deployed Engineer (FDE), Life Sciences - SF
+- [ ] https://jobs.ashbyhq.com/openai/55e611d8-b284-458e-908c-baccd091d0c0 | OpenAI | Forward Deployed Engineer (FDE), Life Sciences - NYC
+- [ ] https://jobs.ashbyhq.com/openai/a3bfefb4-ef77-4a49-a644-92104ca83c2c | OpenAI | Forward Deployed Engineer (FDE), Life Sciences - Munich
+- [ ] https://jobs.ashbyhq.com/openai/9b3f6bfd-2b8a-4de1-b05f-65ea74b736fa | OpenAI | Forward Deployed Engineer (FDE), Life Sciences - Paris
+- [ ] https://jobs.ashbyhq.com/openai/dc17edac-2993-4318-812a-14864c6f4658 | OpenAI | Forward Deployed Engineer (FDE) - Seattle
+- [ ] https://jobs.ashbyhq.com/ramp/a4d92b2a-bda6-439e-ba72-3a23e41e495f | Ramp | Forward Deployed Operations
+- [ ] https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2 | Monte Carlo | Applied Forward Deployed Engineer (FDE)
+- [ ] https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer (FDE) - Technology
+- [ ] https://jobs.ashbyhq.com/zapier/9c09aca7-3abb-49ae-acd7-d12d35188a1d | Zapier | Engineering Manager, Agents
+- [ ] https://jobs.ashbyhq.com/langchain/17264d5c-0ca3-4c26-9683-dd9b020cc155 | LangChain | Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (Bay Area)
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/langchain/72983221-b456-43e1-8a68-d8d4dab3a4f7 | LangChain | AI Engineer
+- [ ] https://jobs.ashbyhq.com/pinecone/54015b8b-a7f2-4de0-a6c5-ddbd16e5a327 | Pinecone | Staff Product Manager, AI Search & Relevance
+- [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126080008 | Anthropic | Solutions Architect, National Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017903008 | Anthropic | Technical Deployment Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099753008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153754008 | Anthropic | Technical Deployment Lead, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5197538008 | Anthropic | Manager of Applied AI Architecture, Enterprise Tech (Cyber)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702369005 | Glean | Product Manager, Enterprise Intelligence
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5124710007 | Temporal | Staff Product Manager, Agent Platform
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5083396007 | Temporal | Staff Solutions Architect - Germany
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003 | Celonis | Senior Integration & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5234051008 | Backblaze | GTM Developer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8556658002 | GitLab | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8546727002 | Life360 | Senior IT Automation Engineer II (AI Native)
+- [ ] https://jobs.lever.co/bounteous/e35304b8-a756-4989-befa-daf03225e188 | Bounteous | Applied AI Engineer
+- [ ] https://jobs.lever.co/blencorp/4b2e3689-9720-4785-b0fe-d09bd5325f74 | BLEN | AI Engineer
+- [ ] https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed ML Engineer - Montreal
+- [ ] https://openai.com/careers/design-verification-forward-deployed-engineering-san-francisco/ | OpenAI | Design Verification, Forward Deployed Engineering
+- [ ] https://openai.com/careers/forward-deployed-engineer-tokyo-tokyo-japan/ | OpenAI | Forward Deployed Engineer - Tokyo
+- [ ] https://jobs.ashbyhq.com/decagon/6660ae61-ae18-4b67-9cc2-6fb9ed0c088e | Decagon | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb | Decagon | Founder's Office, Applied AI
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7742203 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
