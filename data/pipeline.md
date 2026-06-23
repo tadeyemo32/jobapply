@@ -189,3 +189,26 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI)
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7742203 | Intercom | Principal Engineer, Fin AI Agent
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://jobs.ashbyhq.com/Trunk%20Tools/627b9477-747e-44a0-a649-399e2f9b5ed9 | Trunk Tools | Sr. II ML Engineer
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4206045009 | Oura | Senior AI Scientist
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/6030474004 | GuidePoint Security | AI Security Engineer
+- [ ] https://jobs.ashbyhq.com/Deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Senior Pre-Sales Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/Deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e | Deepgram | Senior Solutions Engineer, Federal
+- [ ] https://jobs.ashbyhq.com/Deepgram/debebb24-ca65-48be-8370-fedfc4153f54 | Deepgram | Senior Pre-Sales Solutions Engineer (NYC)
+- [ ] https://jobs.ashbyhq.com/Deepgram/844ec2d9-4256-4be0-a6c6-78ebf1391a78 | Deepgram | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/Deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Senior Pre-Sales Solutions Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/deepgram/9cb09363-9b68-4957-869a-da70b95ad6bd | Deepgram | Solutions Architect (Applied Engineering) - EMEA
+- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco)
+- [ ] https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/notion/a6a91521-87cd-41aa-b800-24dc8808d375 | Notion | Partner Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/notion/3c0141de-06fb-4186-9cd4-75395f0b5488 | Notion | Manager, Solutions Engineering, Mid-Market
+- [ ] https://jobs.ashbyhq.com/notion/fede5201-c97f-4492-bfa6-66da7afbb068 | Notion | Solutions Engineer, Commercial
+- [ ] https://jobs.ashbyhq.com/notion/17330e14-83db-49a4-ae31-411690d97dba | Notion | Software Engineer, AI Workflows
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5165841007 | Temporal | Staff Solutions Architect, Enterprise - East
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661899005 | Glean | AI Outcomes Manager, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605215005 | Glean | ML Engineer, AI Assistant & Autonomous AI Agents
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer, AI Foundations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489 | Mistral AI | AI Scientist
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | RunPod | Forward Deployed Engineer APAC
