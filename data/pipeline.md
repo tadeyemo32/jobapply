@@ -310,3 +310,22 @@
 - [ ] https://jobs.lever.co/intersect/414106b8-e9e8-4404-91ee-c42b98cdf5cf | Intersect | AI Solutions Architect
 - [ ] https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51 | Dash0 | Commercial Solutions Architect
 - [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8 | Pareto.AI | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/ac2b835e-375c-48d8-a174-8c2935f408b2 | Sarvam | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/rilla/ec768352-6ddb-4d4b-8704-0c04c37fff13 | Rilla | Forward Deployed Engineer, Integrations
+- [ ] https://jobs.lever.co/copilotkit/d134b481-f042-45b1-b908-dd38ff72fdd0 | CopilotKit | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/federato/jobs/5206958008 | Federato | Forward Deployed Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/federato/jobs/5012570008 | Federato | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5838911004 | Hightouch | AI Solutions Engineer, Senior Enterprise
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5834919004 | Hightouch | Lead Product Manager, Agentic Personalization
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4222183007 | Together AI | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5831791004 | Natera | Senior Engineer, Agentic RPA Automation
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4018446009 | StackAdapt | Automation Engineer, Agentic Orchestration
+- [ ] https://jobs.lever.co/redoxengine/fac461a3-db8a-4580-a8ba-36be4f977aec | Redox | Senior Product Manager II - AI Platform & Agentic Experience
+- [ ] https://jobs.lever.co/aledade/21787819-6373-4736-8766-d49cc84fd3af | Aledade | Senior Technical Product Manager - AI Platform
+- [ ] https://jobs.lever.co/aledade/a7680239-7d4d-485f-a322-60aa4e917425 | Aledade | Senior Technical Product Manager (Agentic CRM)
+- [ ] https://jobs.lever.co/valence/3f69b392-6c54-4c41-aa06-33029cf1e652 | Valence | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7392902 | MongoDB | Senior Software Engineer, Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/zartis/90918a29-d641-4157-b29d-dab5a1bd8e0d | Zartis | GenAI Architect
