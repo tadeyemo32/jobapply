@@ -240,3 +240,73 @@
 - [ ] https://apply.workable.com/gridium/j/268299DDE1 | Gridium | Product Manager - Data and Integrations
 - [ ] https://apply.workable.com/3degrees/j/2450A6FDCB | 3Degrees | Senior Product Manager, Platform & Commercial Enablement
 - [ ] https://jobs.ashbyhq.com/cohere/9d571f44-369b-41be-854e-89c7e119c4d7 | Cohere | Software Engineer - Applied ML (US/CAN)
+
+- [ ] https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54 | Modal | Forward Deployed Engineer - Systems
+- [ ] https://jobs.ashbyhq.com/rewst/d9c2c2de-da8e-4e38-9150-322015122650 | Rewst | Senior Automation Test Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8568868002 | GitLab | Senior Product Manager, AI Platform Management
+- [ ] https://jobs.lever.co/redoxengine/94f0582f-935f-44c9-8c39-de32fc71fff0 | Redox | Customer Success Operations & AI Agent Manager
+- [ ] https://apply.workable.com/elvtrcom/j/6DB04720AA/ | ELVTR | AI Product Manager
+- [ ] https://apply.workable.com/ottimate/j/51353CA6F8/ | Ottimate | Director of AI Engineering
+- [ ] https://apply.workable.com/vecten/j/869397D5EE/ | Vecten | AI-Native Engineer (Full-Stack / Agentic AI Engineer)
+- [ ] https://jobs.ashbyhq.com/nooks/b14207cc-3d7b-4e79-9ad6-1a035c16d579 | Nooks | GTM Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86 | Cohere | Engineering Manager, Agentic Platform (UK)
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA
+- [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/palantir/727c4271-591f-4e7a-8152-0488c2d92687 | Palantir | Forward Deployed Software Engineer - Edge Autonomous Systems
+- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2
+- [ ] https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363 | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government
+- [ ] https://jobs.ashbyhq.com/decagon/cd95c25c-fdb7-4816-8a31-6d75e86adbe0 | Decagon | Senior Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/d790a2a2-958d-4f49-96ed-adbd68d2e6ce | Decagon | Product Manager
+- [ ] https://jobs.ashbyhq.com/sierra/0c66e8ed-1c18-4b64-ad27-a522a866b6e1 | Sierra | Product Manager, Voice
+- [ ] https://jobs.ashbyhq.com/Sierra/10d2e2f1-6657-40c9-b6fb-6999c76df6cf | Sierra | Product Manager, Agent SDK
+- [ ] https://retool.com/careers/software-engineer-ai-product-engineer---engineering--san-francisco-united-states | Retool | Software Engineer, AI Product Engineer
+- [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer
+- [ ] https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608 | Adaptyv | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/arcade-ai/380c2162-63ea-4dfb-a6f0-495785c284dd | Arcade | Agent Engineer
+- [ ] https://job-boards.greenhouse.io/wizardcommerce/jobs/5733929004 | Wizard | Senior Product Manager, Agentic AI Experiences
+- [ ] https://job-boards.greenhouse.io/cartwheelcare/jobs/5044639007 | Cartwheel | Senior Product Manager, AI Products
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7873872 | Smartsheet | Senior Forward Deployed AI Engineer (Remote Eligible - UK)
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8447517002 | Komodo Health | Forward Deployed, Software Engineer III (AI)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5107283008 | Cresta | Forward Deployed Engineer (AI Agent)
+- [ ] https://job-boards.greenhouse.io/brightai/jobs/5616545004 | BrightAI | Senior AI Engineer – LLM, RAG
+- [ ] https://job-boards.greenhouse.io/upwork/jobs/7741903003 | Upwork | Lead AI Engineer, NLQ & Agentic Systems
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs)
+- [ ] https://job-boards.greenhouse.io/idme/jobs/7766372003 | ID.me | Staff Software Engineer - AI Agent Evaluations
+- [ ] https://job-boards.greenhouse.io/myriad360/jobs/8402449002 | Myriad360 | AI and Automation Lead
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4667233005 | Appfire | Senior AI Automation Engineer
+- [ ] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | General Robotics | Forward Deployed Engineer (AI)
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8497078002 | GitLab | Field Strategist, Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/knak/jobs/4683178005 | Knak | Forward Deployed Engineer (AI Internal Tools)
+- [ ] https://jobs.ashbyhq.com/n8n/5d501d74-cb30-4c14-8ff9-508f647b34a9 | n8n | Senior AI Engineer (Europe Remote)
+- [ ] https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9 | n8n | AI Engineering Manager (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Sr. Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/zapier/2b57e91a-725f-4e57-aa49-716e0f26eead | Zapier | Staff Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/zapier/70a9e6aa-e054-4528-9308-0e473ff672aa | Zapier | Pre-Sales Solutions Architect
+- [ ] https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d | Cohere | Solutions Architect - Public Sector
+- [ ] https://jobs.ashbyhq.com/cohere/2a7f1fad-05ff-4260-af36-556d1d694775 | Cohere | Product Manager, Public Sector & Defence
+- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast)
+- [ ] https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987 | LangChain | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY
+- [ ] https://jobs.ashbyhq.com/vapi/adbc573f-7267-491e-8671-4d5470238aae | Vapi | Agent Strategist - SF
+- [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC
+- [ ] https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c | Sierra | Product Manager, Ghostwriter
+- [ ] https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73 | Sierra | Product Manager, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd | Sierra | Strategist, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/truelogic/bba50df3-0ef0-4a36-9662-d0069ea723bf | Truelogic | Staff Solutions Architect (Canada/Remote)
+- [ ] https://jobs.ashbyhq.com/go-nimbly/f5ef4572-c020-4a81-817f-ea10396d0d57 | Go Nimbly | RevOps Solutions Architect
+- [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer
+- [ ] https://apply.workable.com/volga-partners/j/981FC789E8 | Volga Partners | Product Manager (AI & Platform Products)
+- [ ] https://apply.workable.com/terabase-energy/j/EC2806A1AB | Terabase Energy | Senior Generative AI Engineer
+- [ ] https://jobs.lever.co/provectus/7f4add6a-20d7-4f07-8490-788ababa4713 | Provectus | Senior Technical Solution Owner AI & Data Platforms (Europe/UK)
+- [ ] https://jobs.lever.co/intersect/414106b8-e9e8-4404-91ee-c42b98cdf5cf | Intersect | AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51 | Dash0 | Commercial Solutions Architect
+- [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer
