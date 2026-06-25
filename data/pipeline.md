@@ -310,3 +310,39 @@
 - [ ] https://jobs.lever.co/intersect/414106b8-e9e8-4404-91ee-c42b98cdf5cf | Intersect | AI Solutions Architect
 - [ ] https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51 | Dash0 | Commercial Solutions Architect
 - [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd | Traversal | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | Go-to-Market Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5838911004 | Hightouch | AI Solutions Engineer, Senior Enterprise
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5990367004 | Hightouch | Solutions Engineer - EMEA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6011820004 | Hightouch | Partner Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020404004 | Hightouch | Staff Engineer, AI Productivity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5124623008 | Anthropic | Product Manager, Compute Platform
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694764005 | Glean | Product Manager, AI Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4701912005 | Glean | Product Manager, Enterprise Intelligence
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702151005 | Glean | Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4701618005 | Glean | Product Manager, Connectors
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5036328007 | Temporal | Staff Solutions Architect - London, UK
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5071974007 | Temporal | Staff Solutions Architect, Growth - San Francisco
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5055427007 | Temporal | Staff Solutions Architect, New Logo - East
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4709798007 | Temporal | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5137194007 | Temporal | Senior Solutions Architect: New Logo (East)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4618779007 | Temporal | Staff Solutions Architect - UK
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4797276007 | Temporal | Senior Solutions Architect - Commercial
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4547260007 | Temporal | Staff Solutions Architect: Growth - West
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5078921008 | Cresta | AI Deployment Manager
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5074999008 | Cresta | AI Value Partner, Customer Analytics
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5114374008 | Cresta | Platform Product Manager
+- [ ] https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2 | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan
+- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping
+- [ ] https://openai.com/careers/forward-deployed-engineer-financial-services-new-york-city/ | OpenAI | Forward Deployed Engineer - Financial Services
+- [ ] https://openai.com/careers/forward-deployed-engineer-dublin/ | OpenAI | Forward Deployed Engineer - Dublin
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4751504101 | Parloa | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4825141101 | Parloa | Forward Deployed Engineer, VoIP
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4866271101 | Parloa | Senior Forward Deployed Engineer - Partner Success - US
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4782800101 | Parloa | Senior AI Agent Architect
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4823910101 | Parloa | Senior Agent Architect
+- [ ] https://job-boards.greenhouse.io/processstreet/jobs/8072610002 | Process Street | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d | LangChain | Senior Platform Engineer, Ingestion
