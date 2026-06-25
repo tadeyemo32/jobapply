@@ -345,4 +345,46 @@
 - [ ] https://job-boards.greenhouse.io/parloa/jobs/4782800101 | Parloa | Senior AI Agent Architect
 - [ ] https://job-boards.greenhouse.io/parloa/jobs/4823910101 | Parloa | Senior Agent Architect
 - [ ] https://job-boards.greenhouse.io/processstreet/jobs/8072610002 | Process Street | Senior Solutions Engineer
-- [ ] https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d | LangChain | Senior Platform Engineer, Ingestion
+- [ ] https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d | LangChain | Senior Platform Engineer, Ingestion- [ ] https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8 | Pareto.AI | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/synthflow/575cc030-79c1-45a5-a2f0-7a32071c5411 | Synthflow AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/ac2b835e-375c-48d8-a174-8c2935f408b2 | Sarvam | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5140763007 | Together AI | Staff Machine Learning Engineer, Voice AI
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4222183007 | Together AI | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4773959101 | Cognite | Senior Field AI Engineer (Forward Deployed)
+- [ ] https://job-boards.greenhouse.io/lyratechgroup/jobs/5229710008 | Lyra Technology Group | Forward Deployment AI Engineer
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4875417101 | Unframe | AI Product Manager - West Coast (Remote)
+- [ ] https://job-boards.greenhouse.io/netdocuments/jobs/4948230008 | NetDocuments | Senior Product Manager - AI
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6012381004 | Natera | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/acquia/jobs/8014352 | Acquia | Staff AI Engineer (Acquia DAM)
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/7974854 | SecurityScorecard | Senior/Principal Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8536109002 | GitLab | Staff Product Manager, AI Agent Orchestration
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003 | G-P | Principal Product Manager - Agentic AI Platform
+- [ ] https://job-boards.greenhouse.io/cerebrassystems/jobs/7593896003 | Cerebras Systems | AI Models, Product Manager
+- [ ] https://job-boards.greenhouse.io/apartmentiq/jobs/7705215 | ApartmentIQ | Staff Product Manager - Agentic AI
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009 | Rhino Federated Computing | Forward Deployed Engineer - AI
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7961356 | Okta | Senior Forward Deployed Engineer - AI Agents
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7961339 | Okta | Principal Forward Deployed Engineer - AI Agents
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901 | Roboflow | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/camunda/b771e145-a5cf-4867-ad13-b54830e3b744 | Camunda | Senior Product Manager - Core Platform (Remote)
+- [ ] https://jobs.ashbyhq.com/appliedlabs/39f5c309-1ec5-49f2-897a-e9508005bc87 | Applied Labs | AI Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/siena/bece1b22-9932-4621-ba86-4c5352344cf2 | Siena AI | Forward Deployed Product Manager, Agents
+- [ ] https://jobs.ashbyhq.com/jerry.ai/94bd4118-3d07-4182-863b-e37a367f8a27 | Jerry.ai | Senior Product Manager, AI Agents and Platform
+- [ ] https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/c88f32ef-8fb2-4ade-a4e2-1b1e399b42c5 | Decagon | Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/Sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/pano-ai/44d7f86f-d2d0-443c-bd7a-e150b01f3cbd | Pano AI | Senior/Staff Product Manager, Platform & Integrations
+- [ ] https://jobs.ashbyhq.com/deepgram/faef2c32-5084-48ca-8fff-e86d653f2697 | Deepgram | Customer Success Engineer (Americas)
+- [ ] https://jobs.ashbyhq.com/Deepgram/1278975c-e0d8-45be-82dd-8d0d1f2774e5 | Deepgram | Senior Pre-Sales Solutions Engineer - India
+- [ ] https://jobs.lever.co/thinkahead/3e154b01-512d-4e1e-a881-1597e9997ed6 | AHEAD | Managed Services AI Platform Architect
+- [ ] https://jobs.lever.co/zartis/90918a29-d641-4157-b29d-dab5a1bd8e0d | Zartis | GenAI Architect
+- [ ] https://jobs.ashbyhq.com/fractional-ai/d93607e0-3e38-4a6f-a05e-f293d3f3bdf4 | Fractional AI | Forward Deployed Product Manager (SF/NY)
+- [ ] https://jobs.ashbyhq.com/charta-health/4b7b2598-8926-4fd1-be9a-3596aa3ede46 | Charta Health | Forward Deployed AI Product Manager
+- [ ] https://jobs.ashbyhq.com/tribe-ai/b9c9e488-9776-42fa-9a27-6e4bfa60bca6 | Tribe AI | Forward Deployed Product Manager Lead
+- [ ] https://jobs.ashbyhq.com/lorikeet/e75ed170-a9c1-41f4-9731-1b86ad7c1777 | Lorikeet | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/january/837101a2-6bc5-44e8-8f93-110638dcaca3 | January | Senior/Staff Product Manager, AI Agents
+- [ ] https://jobs.ashbyhq.com/vendelux/e68b278e-9133-4811-a472-5bf0d700eec3 | Vendelux | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44 | Clay Labs | Product Manager, Enrichment & AI
+- [ ] https://jobs.ashbyhq.com/lancedb/7fe25cf2-3bb8-4d05-8715-b22d72c22bd7 | LanceDB | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/sol/eeeac4bb-1c32-4944-ad06-a716e8a05790 | Sol | Applied AI Engineer
