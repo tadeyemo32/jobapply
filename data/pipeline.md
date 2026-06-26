@@ -388,3 +388,9 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44 | Clay Labs | Product Manager, Enrichment & AI
 - [ ] https://jobs.ashbyhq.com/lancedb/7fe25cf2-3bb8-4d05-8715-b22d72c22bd7 | LanceDB | Senior Product Manager
 - [ ] https://jobs.ashbyhq.com/sol/eeeac4bb-1c32-4944-ad06-a716e8a05790 | Sol | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/harmattan-ai/b4bb6811-f6f4-4ecf-a93d-1b29c3a063dd | Harmattan AI | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/netomi/ba379f47-091b-4f2d-82d3-e97a0821227e | Netomi | Agentic Engineer
+- [ ] https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601 | Avoca | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions
+- [ ] https://jobs.lever.co/jobgether/75aa8ac6-e686-40d0-b3a6-eb132a461de0 | Jobgether | Solutions Architect (Remote)
