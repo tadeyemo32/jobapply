@@ -394,3 +394,20 @@
 - [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions
 - [ ] https://jobs.lever.co/jobgether/75aa8ac6-e686-40d0-b3a6-eb132a461de0 | Jobgether | Solutions Architect (Remote)
+- [ ] https://jobs.ashbyhq.com/orb/a0adb5b6-88f5-4d4d-a3e8-ea387dcedd7e | Orb | Solutions Architect (Remote USA)
+- [ ] https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb | LiveKit | Senior Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-6837654b9c8b | LiveKit | Senior Software Engineer, Agent Platform
+- [ ] https://jobs.ashbyhq.com/livekit/dc2e64b8-15fd-4d88-b2dd-c3106f76df4d | LiveKit | Staff Product Manager, Agent Observability
+- [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4876895101 | Veeam Software | Staff AI Engineer
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5136287007 | xAI | Forward Deployed Engineer, X API
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5051966007 | xAI | Member of Technical Staff - Voice Model
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8533435002 | 3Cloud | Principal Architect - AI Product Engineering
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8229697002 | 3Cloud | Senior Consultant - AI
+- [ ] https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277834008 | Anthropic | Manager, Applied AI Engineering, Life Sciences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153761008 | Anthropic | Technical Deployment Lead, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Applied AI Architecture Lead, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5228931008 | Anthropic | Applied AI Architect (Startups)
+- [ ] https://wellfound.com/jobs/3543687-ai-product-manager-b2b-saas | Troopr.ai | AI Product Manager - B2B SaaS
