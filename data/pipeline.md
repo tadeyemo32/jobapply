@@ -394,3 +394,43 @@
 - [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions
 - [ ] https://jobs.lever.co/jobgether/75aa8ac6-e686-40d0-b3a6-eb132a461de0 | Jobgether | Solutions Architect (Remote)
+- [ ] https://jobs.ashbyhq.com/orb/a0adb5b6-88f5-4d4d-a3e8-ea387dcedd7e | Orb | Solutions Architect (Remote USA)
+- [ ] https://jobs.lever.co/outreach/f7531feb-fa79-488b-96dc-0769a748425a | Outreach | Forward Deployed Engineer – AI Revenue Agents
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e692fe0e-6478-48cb-a217-f567eabf2d15 | ElevenLabs | Forward Deployed Engineer – Strategist
+- [ ] https://jobs.ashbyhq.com/deepgram/c69aab8a-e1d5-44ac-9113-12671a364015 | Deepgram | Forward Deployed Engineer (Restaurants)
+- [ ] https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer – Agentic Platform
+- [ ] https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70 | Bland AI | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/mistral/650e0e53-dc35-4e61-9b46-6f7ef003d0be | Mistral AI | Product Manager – Mistral Vibe
+- [ ] https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047 | OpenAI | Forward Deployed Software Engineer (SF)
+- [ ] https://jobs.lever.co/jobgether/039a8098-9d2d-43f5-9f8d-976a813d3565 | Jobgether | Remote AI Integration Engineer – Forward Deployed
+- [ ] https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3 | Jobgether | Forward Deployed AI Engineer (REMOTE)
+- [ ] https://jobs.lever.co/jobgether/a2732436-d2fd-43bd-be07-9c11ad9eea6c | Jobgether | Remote AI Systems Architect – Forward Deployed
+- [ ] https://jobs.lever.co/jobgether/947b875c-c113-4a8b-af31-9bb22aeb0a30 | Jobgether | Remote AI Solutions Architect – Forward Deployed
+- [ ] https://jobs.lever.co/jobgether/28281adc-5e0c-4721-beb1-a7dc2488dc40 | Jobgether | Remote AI Engineer – Forward Deployed
+- [ ] https://jobs.lever.co/jobgether/538ae93e-7330-4a36-b9d9-07476bf27ccf | Jobgether | Forward Deployed Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/90ccf7be-d875-4fdf-8800-c38fc1351659 | Jobgether | Forward Deployed Solutions Architect (Remote)
+- [ ] https://jobs.lever.co/aledade/5da33ae4-d547-4656-ac3c-b461ec2c5220 | Aledade | Senior Software Engineer II – Forward Deployed AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5663703 | Intercom | Product Manager – Fin AI
+- [ ] https://jobs.ashbyhq.com/langfuse/0cd84fa2-e4ce-4395-bee5-0489e86e89f5 | Langfuse | Senior Forward Deployed Engineer
+- [ ] https://careers.salesforce.com/en/jobs/jr305198/ai-forward-deployed-engineer-seniorleadprincipal/ | Salesforce | AI Forward Deployed Engineer (Senior/Lead/Principal)
+- [ ] https://careers.salesforce.com/en/jobs/jr339744/forward-deployed-engineer-agentforce-for-supply-chain/ | Salesforce | Forward Deployed Engineer – Agentforce Supply Chain
+- [ ] https://jobs.ashbyhq.com/retell-ai/ce993d9b-5635-43ba-aef1-d9dfa2025ca2 | Retell AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/meridianlink/a85d295b-93a2-4bb1-924f-00925527e5f0 | MeridianLink | Senior Product Manager - AI Products (FinTech)
+- [ ] https://jobs.ashbyhq.com/frontcareers/ef22a4eb-df20-4ba5-acd4-1c4bbd341935 | Front | Senior Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/collinear-ai/1c6139b2-e698-419b-ab18-823f12787754 | Collinear AI | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/simpplr/jobs/6017242004 | Simpplr | Senior Product Manager - AI
+- [ ] https://job-boards.greenhouse.io/ombud/jobs/8599080002 | Ombud | Senior Full Stack AI Engineer
+- [ ] https://jobs.lever.co/thinkahead/6284b2be-1c97-4b96-947d-7576a41dc695 | AHEAD | AI Product Manager
+- [ ] https://jobs.lever.co/jobgether/5094d30e-5bd3-41a5-bb04-96894a861290 | Jobgether | AI Product Manager / Owner
+- [ ] https://jobs.lever.co/jobgether/2f44f9dc-a0ad-4a77-9d46-e29e4f74810a | Jobgether | Staff AI Engineer (Acquia DAM)
+- [ ] https://openai.com/careers/technical-deployment-lead-forward-deployed-engineering-(fde)-nyc-new-york-city/ | OpenAI | Technical Deployment Lead, Forward Deployed Engineering (FDE) - NYC
+- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge
+- [ ] https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7 | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065 | Palantir | Forward Deployed Reliability Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/0902f176-33a3-4233-be8a-1e22d1e8d23d | Decagon | Engineering Manager, Agents
+- [ ] https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/zapier/fb279f60-d513-464c-ac17-c0843da0090f | Zapier | AI-First Full Stack Software Engineer (Growth & Revenue)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4508312005 | Glean | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4873079101 | Parloa | Senior Forward Deployed Engineer - Partner Success
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4992510008 | Cresta | Associate Forward Deployed Product Manager
